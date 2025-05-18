@@ -19,4 +19,4 @@ if __name__ == "__main__":
         sorted_arr = insertion_sort_desc(arr)
         print("Sorted (descending):", sorted_arr)
     except ValueError:
-        print("Please enter only integers separated by spaces.")
+        print("Please enter only integers separated by spaces then press ENTER when done.")
